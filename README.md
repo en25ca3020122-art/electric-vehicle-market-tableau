@@ -3,7 +3,7 @@
 An interactive Tableau data analytics project analyzing global electric vehicle distribution, average driving range, vehicle makes, and CAFV eligibility.
 
 ## 📊 Live Dashboard
-- **Tableau Public Demo:**  https://public.tableau.com/authoring/ElectricVehicleMarketPerformance_17934691638750/Dashboard1#1
+- **Tableau Public Demo:**  https://public.tableau.com/app/profile/naman.sinha1571/viz/ElectricVehicleMarketPerformanceAnalysis_17934742077370/Dashboard1#1
 
 ## 📁 Dataset
 Due to GitHub file size limits (>25 MB), the dataset used in this project is sourced directly from Kaggle:
