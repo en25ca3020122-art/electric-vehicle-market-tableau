@@ -1,23 +1,22 @@
-# Electric Vehicle Market Performance & Insights 🚗⚡
+# Electric Vehicle Market Performance Analysis
 
-An interactive Tableau data analytics project analyzing global electric vehicle distribution, average driving range, vehicle makes, and CAFV eligibility.
+## 📌 Project Overview
+This repository contains the complete dataset exploration, interactive visualizations, and analysis deliverables for the **Electric Vehicle Market Performance Analysis** project. The analysis evaluates global electric vehicle (EV) sales, manufacturer market shares, vehicle category distributions, customer satisfaction ratings, model year growth trends, battery technology adoption, and geographic manufacturing footprints.
 
-## 📊 Live Dashboard
-- **Tableau Public Demo:**  https://public.tableau.com/app/profile/naman.sinha1571/viz/ElectricVehicleMarketPerformanceAnalysis_17934742077370/Dashboard1#1
+---
 
-## 📁 Dataset
-Due to GitHub file size limits (>25 MB), the dataset used in this project is sourced directly from Kaggle:
-- [Electric Vehicle Population Dataset on Kaggle](https://www.kaggle.com/datasets/ricardobj/electric-vehicle-population)
-- 
-## video demonstration is also there of my project - https://drive.google.com/file/d/1bPUlAIV3yprbqlKGV1GolcMeXvX8AEum/view?usp=sharing
-## TEMPLATE ATTACHED FOR THE DEMONSTRATION - https://drive.google.com/file/d/1KYI0NWYnjnAQCQmaP_7vtbW2RC87FMsC/view?usp=sharing
+## 🔗 Project Links & Deliverables
+* **Tableau Public Story / Dashboard:** [Electric Vehicle Market Performance Analysis](https://public.tableau.com/app/profile/naman.sinha1571/viz/ElectricVehicleMarketPerformanceAnalysis/Story1)
+* **Video Walkthrough (Google Drive):** [Watch 6–7 Minute Demo Recording](https://drive.google.com/file/d/1wRhqpo2KGu0WYlWwZqyDcxLVe28GmIJI/view?usp=sharing)
+* **Submission Document Template:** [View Submission PDF Document](https://drive.google.com/file/d/1BxjQVSYaZwfjLN3XNx87bnE3idq7zxw1/view?usp=sharing)
 
-## 📈 Key Visualizations & Insights
-- **Vehicles by Make:** Distribution of EV population across major manufacturers.
-- **EV Type Distribution:** Breakdown of Battery Electric Vehicles (BEV) vs. Plug-in Hybrid Electric Vehicles (PHEV).
-- **Electric Range Analysis:** Average driving range evaluation per vehicle brand.
-- **CAFV Eligibility:** Overview of Clean Alternative Fuel Vehicle eligibility standards.
+---
 
-## 🛠️ Tools Used
-- **Data Visualization:** Tableau
-- **Repository Hosting:** GitHub
+## 📂 Repository Structure
+```text
+ev-market-performance-analysis/
+├── app.py                      # Flask web application entry point
+├── templates/
+│   └── index.html              # HTML template with embedded Tableau dashboard
+├── Electric_Vehicle_Data.csv   # Project dataset used for analysis
+└── README.md                   # Repository documentation and project summary
